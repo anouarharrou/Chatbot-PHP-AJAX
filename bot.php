@@ -9,7 +9,7 @@
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>Chatbot | Anouar Harrou</title>
+    <title> Welcome | Chatbot </title>
     <link rel="icon" type="image/png" href="img/chatbot.png">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
